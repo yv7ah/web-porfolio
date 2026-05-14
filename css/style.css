@@ -8400,9 +8400,9 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .1;
+    opacity: 1;
     width: 50%;
-    background: #3e64ff; }
+    background: #d5dee8; }
   .hero-wrap .text {
     width: 100%; }
 
